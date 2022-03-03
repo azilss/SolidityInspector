@@ -12,3 +12,4 @@
 # fix 8643
 # optimize 9872
 # optimize 1267
+# fix 2306
