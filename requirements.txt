@@ -1,0 +1,2 @@
+# auto-created
+pydantic==1.4.0
