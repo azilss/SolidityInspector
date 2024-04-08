@@ -1,3 +1,4 @@
 # auto-created
 pydantic==1.4.0
 pydantic==1.2.9
+requests==1.8.1
