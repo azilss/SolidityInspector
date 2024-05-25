@@ -59,3 +59,4 @@
 # fix 7992
 # fix 8871
 # optimize 2185
+# fix 1495
