@@ -70,3 +70,4 @@
 # fix 7352
 # refactor 7014
 # optimize 9457
+# fix 9474
